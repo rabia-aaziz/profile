@@ -1,0 +1,24 @@
+.panel {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%;
+    transition: left 600ms ease 0s;
+    left: -100%;
+}
+.git-logo
+{
+    background-image: url(images/github-logo.png);
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+    width:100px;
+}
+.fa-github-square:before{
+   
+  color: #ecac28fa !important;
+
+}
+
+
